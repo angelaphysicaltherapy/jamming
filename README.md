@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+Jamming App
+
+#Description: This app allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account.
+
+#Contribution: 
+This is a project from codecademy. CSS and HTML files are downloaded from their plateform. My contribution is to create a React web application using knowledge of React compoonents, passing state, and requirests with the Spotify API.
+
+#Instructions:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
