@@ -1,6 +1,6 @@
 Jamming App
 
-#Description: This app allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account.
+#Description: This app allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account. This webpage has been deployed here: http://jamming-expert.surge.sh
 
 #Contribution: 
 This is a project from codecademy. CSS and HTML files are downloaded from their plateform. My contribution is to create a React web application using knowledge of React compoonents, passing state, and requirests with the Spotify API.
